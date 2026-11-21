@@ -1,0 +1,6 @@
+# Components V2 (ui.LayoutView, ui.Container, ui.Label) requires discord.py 2.6+
+discord.py>=2.7.1
+httpx>=0.28
+python-dateutil>=2.9
+jishaku>=0.5
+setuptools==69.5.1

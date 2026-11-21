@@ -1,0 +1,15 @@
+{
+    "owners": [
+        1013110567109673050,
+        1476937121909444630
+    ],
+    "tokens": {
+        "bot_token": ""
+    },
+    "discord": {
+        "accounts_channel": 1554268683252142082
+    },
+    "autosecure": {
+        "replace_main_alias": true
+    }
+}
